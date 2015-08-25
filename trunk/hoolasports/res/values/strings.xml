@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">welcome back to hoola!</string>
+    <string name="app_name">hoola</string>
+    <string name="home">home</string>
+    <string name="publish">publish</string>
+    <string name="change">change</string>
+    <string name="more">more</string>
+</resources>
